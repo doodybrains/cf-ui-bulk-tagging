@@ -1,0 +1,7 @@
+{
+  "name": "Contentful UI Bulk Tagging Extension",
+  "id": "contentfulUIBulkTaggingExtensionn",
+  "fieldTypes": ["Entries", "Assets"],
+  "srcdoc": "./dist/index.html",
+  "sidebar": false
+}
